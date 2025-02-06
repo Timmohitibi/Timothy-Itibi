@@ -378,7 +378,7 @@ form btn2 {
 
 /* ------------css for small screen-------------- */
 
-.nav.fas {
+nav.fas {
   display: none;
 }
 
